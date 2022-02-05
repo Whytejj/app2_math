@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">app2_math</string>
+    <string name="time">30s</string>
+    <string name="todo">TODO</string>
+    <string name="Btext">Show</string>
+    <string name="Btext2">hide</string>
+    <string name="textview">TextView</string>
+    <string name="go">Go!</string>
+    <string name="score">0/0</string>
+    <string name="sum">1 + 1</string>
+    <string name="c1">1</string>
+    <string name="c2">2</string>
+    <string name="c3">3</string>
+    <string name="c4">4</string>
+
+</resources>
